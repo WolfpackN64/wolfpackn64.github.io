@@ -1,0 +1,7 @@
+html {font-size: 12px; font-family: "Zilla Slab", ZillaSlab-Medium; color: white;}
+img {display: block; margin-left: auto; margin-right: auto; width: fit-content; image-rendering: auto; align-items: center;}
+h1 {font-size: 52px; text-align: center; line-height: 1; margin: 0; padding: 20px 0; text-shadow: 1px 1px 1px grey;}
+h2 {font-size: 10px;text-align: center; line-height: 0.5;}
+p,li {font-size: 13px;line-height: 2; letter-spacing: 1px; padding: 0 0 0 40px;}
+body {width: 600px; margin: 0 auto; background-image: url(../images/background.jpg); background-size: cover; padding: 0 20px 10px 20px; border: 2px transparent;}
+
